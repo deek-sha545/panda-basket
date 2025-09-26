@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Env files
+backend/.env
+frontend/.env
+
+# Expo
+.expo/
+.expo-shared/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
